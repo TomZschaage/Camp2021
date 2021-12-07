@@ -8,7 +8,7 @@
 | Akira        |               |
 | Andreas      |               |
 | Christina    |               |
-| Christoph    | @chrizzo84    |
+| Christoph    |               |
 | Daniel       |               |
 | Dieter       |               |
 | Florian      |               |
@@ -32,6 +32,6 @@
 | Simon        |               |
 | Stefan       |               |
 | Sven         |               |
-| Tom          |               |
+| Tom          | @TomZschaage  |
 | Uwe          |               |
 | Wenjin       |               |
